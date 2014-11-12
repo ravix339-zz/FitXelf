@@ -1,0 +1,8 @@
+c:\users\ravi sinha\documents\visual studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\bin\Windows Phone\Debug\FitXelfLib.dll
+c:\users\ravi sinha\documents\visual studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\bin\Windows Phone\Debug\FitXelfLib.pdb
+c:\users\ravi sinha\documents\visual studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ravi sinha\documents\visual studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\obj\Windows Phone\Debug\FitXelfLib.dll
+c:\users\ravi sinha\documents\visual studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\obj\Windows Phone\Debug\FitXelfLib.pdb
+C:\Users\Ravi Sinha\Documents\Visual Studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\obj\Windows Phone\Debug\FitXelfLib.csprojResolveAssemblyReference.cache
+C:\Users\Ravi Sinha\Documents\Visual Studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\bin\Windows Phone\Debug\Content\Audio.xnb
+C:\Users\Ravi Sinha\Documents\Visual Studio 2010\Projects\FitXelf\FitXelf\FitXelfLib\bin\Windows Phone\Debug\Content\Audio.wma
